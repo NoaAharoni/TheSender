@@ -1,2 +1,2 @@
-# SmsSender
-android project
+# TheSender
+My android project
